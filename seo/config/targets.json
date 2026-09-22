@@ -1,0 +1,19 @@
+{
+  "source": "Opinly backlink-gap analysis (one-time, no longer refreshing) + plan Workstream 1",
+  "backlink_targets": [
+    {"domain": "wmpo.org", "type": "Regional planning org", "angle": "Local business resource/partner listing"},
+    {"domain": "cbseacoastnewhomes.com", "type": "Coastal NC homebuilder", "angle": "Portfolio/vendor mention if any overlap with home-service clients"},
+    {"domain": "carewilmington.org", "type": "Local nonprofit", "angle": "Sponsorship or in-kind design work for a backlink"},
+    {"domain": "wilmingtonparadeofhomes.com", "type": "Local builder event", "angle": "Sponsor or exhibitor listing"},
+    {"domain": "landfallrealty.com", "type": "Local real estate", "angle": "Vendor/partner page"},
+    {"domain": "hardisonbuilding.com", "type": "Local contractor/builder", "angle": "Direct client or referral-partner backlink; case study subject"},
+    {"domain": "gmcconstructionnc.com", "type": "Local contractor/builder", "angle": "Direct client or referral-partner backlink; case study subject"},
+    {"domain": "asydesconstruction.com", "type": "Local contractor/builder", "angle": "Direct client or referral-partner backlink; case study subject"},
+    {"domain": "thehomeplacenc.com", "type": "Local home-services content", "angle": "Guest post or resource mention"},
+    {"domain": "gocoastnc.org", "type": "Coastal NC civic/community", "angle": "Community sponsorship listing"}
+  ],
+  "clients_for_credit_links": ["Conspiracy Board Shop", "Nest Run Club", "Tuning Fork Solutions", "Elevation Church", "Frais Church", "Rock Hill Finds", "NeuroDesign Coach", "Wilmington FC"],
+  "citation_directories": ["Google Business Profile", "Apple Business Connect", "Bing Places", "Wilmington Chamber of Commerce", "Cape Fear Chamber / regional business directory", "NC home-builder associations", "Clutch", "DesignRush"],
+  "pr_outlets": ["Port City Daily", "WWAY", "StarNews"],
+  "competitors": ["wilmingtondesignco.com"]
+}

@@ -1,0 +1,30 @@
+{
+  "domain": "wayout.design",
+  "base_url": "https://wayout.design",
+  "sitemap_url": "https://wayout.design/sitemap.xml",
+  "brand_name": "Way Out Custom Branding",
+  "brand_patterns": ["wayout\\.design", "way out custom branding"],
+  "brand_loose_pattern": "\\bway out\\b",
+  "collision_domains": ["wayoutdesign.com", "wayoutinc.com"],
+  "competitor_patterns": {"wilmingtondesignco.com": "wilmington\\s*design\\s*co"},
+  "gsc_site_url": "sc-domain:wayout.design",
+  "crawl": {"max_pages": 200, "timeout_seconds": 15, "user_agent": "WayOutSEOBot/1.0 (+https://wayout.design)", "duplicate_similarity": 0.9},
+  "pagespeed": {"max_pages": 10, "strategy": "mobile"},
+  "review_mode": true,
+  "known_backlog": {
+    "source": "Opinly site audit, 2026-09-09 to 2026-09-22 (one-time snapshot)",
+    "broken_links": 31,
+    "pages_missing_alt": 31,
+    "pages_total": 32,
+    "duplicate_meta_description_pages": 6,
+    "duplicate_content_pages": 7,
+    "non_indexable_pages": 1
+  },
+  "kpi_targets": {
+    "real_referring_domains": {"baseline": 0, "target": "15-25"},
+    "broken_links": {"baseline": 31, "target": 0},
+    "pages_missing_alt": {"baseline": 31, "target": 0},
+    "ai_mention_rate": {"baseline": 0.5, "target": 0.7},
+    "ranked_trade_keywords_top50": {"baseline": null, "target": 10}
+  }
+}

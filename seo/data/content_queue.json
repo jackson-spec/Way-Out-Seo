@@ -1,0 +1,382 @@
+[
+  {
+    "id": "near-me-agency-page-web-design-branding-agency-near-wilmingt",
+    "item": "\"Near me\" agency page: web design & branding agency near Wilmington NC",
+    "status": "pending",
+    "notes": "Targets marketing agencies near me (27.1k, KD 24), digital marketing agency near me (14.8k, KD 21), advertising agencies near me (8.1k, KD 9), branding company near me (1.9k), design agencies near me (1.3k). Scope honestly to what a solo studio delivers.",
+    "priority": 1,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "landing"
+  },
+  {
+    "id": "website-design-for-roofers-in-wilmington-nc",
+    "item": "Website design for roofers in Wilmington NC",
+    "status": "pending",
+    "notes": "Trade x service page. Written around revenue/conversion outcomes (calls, booked jobs), not aesthetics.",
+    "priority": 1,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_service"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-wilmington-nc",
+    "item": "Website design for HVAC companies in Wilmington NC",
+    "status": "pending",
+    "notes": "Trade x service page. Written around revenue/conversion outcomes (calls, booked jobs), not aesthetics.",
+    "priority": 1,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_service"
+  },
+  {
+    "id": "website-design-for-plumbers-in-wilmington-nc",
+    "item": "Website design for plumbers in Wilmington NC",
+    "status": "pending",
+    "notes": "Trade x service page. Written around revenue/conversion outcomes (calls, booked jobs), not aesthetics.",
+    "priority": 1,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_service"
+  },
+  {
+    "id": "website-design-for-electricians-in-wilmington-nc",
+    "item": "Website design for electricians in Wilmington NC",
+    "status": "pending",
+    "notes": "Trade x service page. Written around revenue/conversion outcomes (calls, booked jobs), not aesthetics.",
+    "priority": 1,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_service"
+  },
+  {
+    "id": "faq-page-how-much-does-a-website-cost-for-a-contractor",
+    "item": "FAQ page: How much does a website cost for a contractor?",
+    "status": "pending",
+    "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "faq"
+  },
+  {
+    "id": "faq-page-how-long-does-it-take-to-build-a-contractor-website",
+    "item": "FAQ page: How long does it take to build a contractor website?",
+    "status": "pending",
+    "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "faq"
+  },
+  {
+    "id": "faq-page-do-contractors-need-a-website-if-they-have-a-google",
+    "item": "FAQ page: Do contractors need a website if they have a Google Business Profile?",
+    "status": "pending",
+    "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "faq"
+  },
+  {
+    "id": "faq-page-what-should-a-roofing-company-website-include",
+    "item": "FAQ page: What should a roofing company website include?",
+    "status": "pending",
+    "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "faq"
+  },
+  {
+    "id": "schema-markup-localbusiness-service-faqpage-json-ld",
+    "item": "Schema markup: LocalBusiness + Service + FAQPage JSON-LD",
+    "status": "pending",
+    "notes": "Service area = coastal NC, service type = web design for trades. Use the full name Way Out Custom Branding (entity clarity vs wayoutdesign.com / wayoutinc.com).",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "schema"
+  },
+  {
+    "id": "case-study-conspiracy-board-shop",
+    "item": "Case study: Conspiracy Board Shop",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-nest-run-club",
+    "item": "Case study: Nest Run Club",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-tuning-fork-solutions",
+    "item": "Case study: Tuning Fork Solutions",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-elevation-church",
+    "item": "Case study: Elevation Church",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-frais-church",
+    "item": "Case study: Frais Church",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-rock-hill-finds",
+    "item": "Case study: Rock Hill Finds",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-neurodesign-coach",
+    "item": "Case study: NeuroDesign Coach",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "case-study-wilmington-fc",
+    "item": "Case study: Wilmington FC",
+    "status": "pending",
+    "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+    "priority": 2,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "case_study"
+  },
+  {
+    "id": "website-design-for-roofers-in-leland-nc",
+    "item": "Website design for roofers in Leland NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-roofers-in-hampstead-nc",
+    "item": "Website design for roofers in Hampstead NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-roofers-in-carolina-beach-nc",
+    "item": "Website design for roofers in Carolina Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-roofers-in-wrightsville-beach-nc",
+    "item": "Website design for roofers in Wrightsville Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-roofers-in-southport-nc",
+    "item": "Website design for roofers in Southport NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-leland-nc",
+    "item": "Website design for HVAC companies in Leland NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-hampstead-nc",
+    "item": "Website design for HVAC companies in Hampstead NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-carolina-beach-nc",
+    "item": "Website design for HVAC companies in Carolina Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-wrightsville-beach-nc",
+    "item": "Website design for HVAC companies in Wrightsville Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-hvac-companies-in-southport-nc",
+    "item": "Website design for HVAC companies in Southport NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-plumbers-in-leland-nc",
+    "item": "Website design for plumbers in Leland NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-plumbers-in-hampstead-nc",
+    "item": "Website design for plumbers in Hampstead NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-plumbers-in-carolina-beach-nc",
+    "item": "Website design for plumbers in Carolina Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-plumbers-in-wrightsville-beach-nc",
+    "item": "Website design for plumbers in Wrightsville Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-plumbers-in-southport-nc",
+    "item": "Website design for plumbers in Southport NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-electricians-in-leland-nc",
+    "item": "Website design for electricians in Leland NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-electricians-in-hampstead-nc",
+    "item": "Website design for electricians in Hampstead NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-electricians-in-carolina-beach-nc",
+    "item": "Website design for electricians in Carolina Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-electricians-in-wrightsville-beach-nc",
+    "item": "Website design for electricians in Wrightsville Beach NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  },
+  {
+    "id": "website-design-for-electricians-in-southport-nc",
+    "item": "Website design for electricians in Southport NC",
+    "status": "pending",
+    "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
+    "priority": 3,
+    "added": "2026-09-22",
+    "source": "growth plan",
+    "type": "trade_town"
+  }
+]
