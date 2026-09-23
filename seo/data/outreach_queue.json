@@ -2,12 +2,21 @@
   {
     "id": "client-credit-link-ask-conspiracy-board-shop",
     "item": "Client credit link ask: Conspiracy Board Shop",
-    "status": "pending",
+    "status": "brief",
     "notes": "Check their site footer for a 'designed by Way Out Custom Branding' link to wayout.design. If missing, draft a polite ask.",
     "priority": 1,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "client_credit"
+    "type": "client_credit",
+    "draft": "drafts/outreach/2026-09-23-client-credit-link-ask-conspiracy-board-shop.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-09-23T17:35:48+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "client-credit-link-ask-nest-run-club",
