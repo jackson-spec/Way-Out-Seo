@@ -135,12 +135,21 @@
   {
     "id": "faq-page-do-contractors-need-a-website-if-they-have-a-google",
     "item": "FAQ page: Do contractors need a website if they have a Google Business Profile?",
-    "status": "pending",
+    "status": "brief",
     "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
     "priority": 2,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "faq"
+    "type": "faq",
+    "draft": "drafts/content/2026-10-09-faq-page-do-contractors-need-a-website-if-they-have-a-google.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-10-09T18:34:05+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "faq-page-what-should-a-roofing-company-website-include",

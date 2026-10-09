@@ -1,0 +1,1312 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T18:34:05+00:00",
+  "steps": {
+    "crawl": {
+      "status": "ok",
+      "source": "self-hosted crawler (requests + BeautifulSoup)",
+      "ts": "2026-10-09T18:34:03+00:00",
+      "data": {
+        "pages_crawled": 38,
+        "page_urls": [
+          "https://wayout.design/",
+          "https://wayout.design/about",
+          "https://wayout.design/accessibility",
+          "https://wayout.design/services",
+          "https://wayout.design/services/brand-design",
+          "https://wayout.design/services/web-design",
+          "https://wayout.design/services/social-media",
+          "https://wayout.design/services/motion-graphics",
+          "https://wayout.design/services/seo-geo",
+          "https://wayout.design/services/consulting",
+          "https://wayout.design/work",
+          "https://wayout.design/faq",
+          "https://wayout.design/book",
+          "https://wayout.design/careers",
+          "https://wayout.design/ai-charter",
+          "https://wayout.design/legal-notice",
+          "https://wayout.design/terms-of-service",
+          "https://wayout.design/cookie-preference",
+          "https://wayout.design/work/be-social",
+          "https://wayout.design/work/bless-the-youth",
+          "https://wayout.design/work/conspiracy-board-shop",
+          "https://wayout.design/work/law-offices-of-mary-jordan",
+          "https://wayout.design/work/nest-run-club",
+          "https://wayout.design/work/neurodesign-coach",
+          "https://wayout.design/work/rock-hill-finds",
+          "https://wayout.design/work/tristin-grace-housekeeping",
+          "https://wayout.design/work/tuning-fork-solutions",
+          "https://wayout.design/work/wilmington-fc",
+          "https://wayout.design/insights",
+          "https://wayout.design/insights/category/branding",
+          "https://wayout.design/insights/category/client-stories",
+          "https://wayout.design/insights/category/growth-and-referrals",
+          "https://wayout.design/insights/category/web-design",
+          "https://wayout.design/insights/author/jackson-rowell",
+          "https://wayout.design/privacy-policy",
+          "https://wayout.design/network",
+          "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+          "https://wayout.design/network/apply"
+        ],
+        "broken_links": [
+          {
+            "page": "https://wayout.design/",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#c0a3afaeb4a1a3b480b7a1b9afb5b4eea4a5b3a9a7ae",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/about",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#66050908120705122611071f091312480203150f0108",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/accessibility",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#e784888993868493a790869e889293c98382948e8089",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/accessibility",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#fb9894958f9a988fbb8c9a82948e8fd59f9e88929c95",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#a7c4c8c9d3c6c4d3e7d0c6dec8d2d389c3c2d4cec0c9",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/brand-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#197a76776d787a6d596e7860766c6d377d7c6a707e77",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/web-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#65060a0b110406112512041c0a10114b0100160c020b",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/social-media",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/motion-graphics",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f1929e9f85909285b18690889e8485df95948298969f",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/seo-geo",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#e1828e8f95808295a19680988e9495cf85849288868f",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/consulting",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#ea8985849e8b899eaa9d8b93859f9ec48e8f99838d84",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#ee8d81809a8f8d9aae998f97819b9ac08a8b9d878980",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/faq",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#dfbcb0b1abbebcab9fa8bea6b0aaabf1bbbaacb6b8b1",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/book",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#21424e4f55404255615640584e54550f45445248464f",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/careers",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#a6c5c9c8d2c7c5d2e6d1c7dfc9d3d288c2c3d5cfc1c8",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/ai-charter",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#6c0f0302180d0f182c1b0d150319184208091f050b02",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/legal-notice",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#294a46475d484a5d695e4850465c5d074d4c5a404e47",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/legal-notice",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#87e4e8e9f3e6e4f3c7f0e6fee8f2f3a9e3e2f4eee0e9",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/terms-of-service",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/terms-of-service",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#c5a6aaabb1a4a6b185b2a4bcaab0b1eba1a0b6aca2ab",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/cookie-preference",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#1e7d71706a7f7d6a5e697f67716b6a307a7b6d777970",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/cookie-preference",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#90f3fffee4f1f3e4d0e7f1e9ffe5e4bef4f5e3f9f7fe",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/be-social",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#e88b87869c898b9ca89f8991879d9cc68c8d9b818f86",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/bless-the-youth",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#8deee2e3f9eceef9cdfaecf4e2f8f9a3e9e8fee4eae3",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/conspiracy-board-shop",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#e2818d8c96838196a295839b8d9796cc8687918b858c",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/nest-run-club",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#88ebe7e6fce9ebfcc8ffe9f1e7fdfca6ecedfbe1efe6",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/neurodesign-coach",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#03606c6d776260774374627a6c76772d6766706a646d",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/rock-hill-finds",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#89eae6e7fde8eafdc9fee8f0e6fcfda7edecfae0eee7",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/tristin-grace-housekeeping",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#0f6c60617b6e6c7b4f786e76607a7b216b6a7c666861",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/tuning-fork-solutions",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#9efdf1f0eafffdeadee9ffe7f1ebeab0fafbedf7f9f0",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/wilmington-fc",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#d5b6babba1b4b6a195a2b4acbaa0a1fbb1b0a6bcb2bb",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#cfaca0a1bbaeacbb8fb8aeb6a0babbe1abaabca6a8a1",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/a-logo-that-works-on-a-truck-door-and-a-phone-screen",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/custom-website-design-vs-website-builders-what-small-businesses-actually-give-up-with-a-template",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/from-pre-launch-nobody-to-sponsorship-banners-across-wilmington",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/generative-engine-optimization-geo-explained-how-small-businesses-get-found-in-ai-answers",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/own-your-voice-boldly-why-a-clear-brand-voice-outlasts-every-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/should-your-business-follow-the-serif-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/the-3-second-test-what-a-prospect-decides-before-reading-your-site",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/the-hidden-cost-of-a-diy-logo-bad-files-color-drift-and-reprints",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/the-one-page-most-trade-businesses-forget-proof-youre-real",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/the-real-reason-your-quote-gets-compared-on-price-and-its-not-your-price",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-a-brand-identity-package-actually-includes-and-why-each-piece-matters",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-a-website-actually-needs-to-do-for-a-contractor-its-not-look-nice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-churches-get-wrong-about-visual-identity-and-why-it-matters-for-trust-not-vanity",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-happened-to-blanding-and-why-brands-are-getting-human-again",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-makes-a-homeowner-trust-a-stranger-enough-to-let-them-in",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/what-you-lose-when-your-branding-project-gets-handed-off-three-times",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-a-slow-loading-site-is-costing-you-calls-youll-never-know-about",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-call-for-a-quote-beats-a-contact-form-for-trade-businesses",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-referrals-dry-up-the-moment-you-stop-asking-for-them",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-templated-branding-falls-apart-the-moment-you-use-it-twice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-the-better-contractor-loses-the-bid-to-the-uglier-truck",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/insights/why-we-do-good-work-isnt-a-marketing-message-anymore",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/a-logo-that-works-on-a-truck-door-and-a-phone-screen",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/own-your-voice-boldly-why-a-clear-brand-voice-outlasts-every-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/should-your-business-follow-the-serif-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/the-hidden-cost-of-a-diy-logo-bad-files-color-drift-and-reprints",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/what-happened-to-blanding-and-why-brands-are-getting-human-again",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/what-you-lose-when-your-branding-project-gets-handed-off-three-times",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/branding",
+            "link": "https://wayout.design/insights/why-templated-branding-falls-apart-the-moment-you-use-it-twice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/client-stories",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#8cefe3e2f8edeff8ccfbedf5e3f9f8a2e8e9ffe5ebe2",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/category/client-stories",
+            "link": "https://wayout.design/insights/from-pre-launch-nobody-to-sponsorship-banners-across-wilmington",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/client-stories",
+            "link": "https://wayout.design/insights/what-churches-get-wrong-about-visual-identity-and-why-it-matters-for-trust-not-vanity",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/growth-and-referrals",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#e88b87869c898b9ca89f8991879d9cc68c8d9b818f86",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/category/growth-and-referrals",
+            "link": "https://wayout.design/insights/why-referrals-dry-up-the-moment-you-stop-asking-for-them",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#adcec2c3d9ccced9eddaccd4c2d8d983c9c8dec4cac3",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/insights/the-3-second-test-what-a-prospect-decides-before-reading-your-site",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/insights/the-one-page-most-trade-businesses-forget-proof-youre-real",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/insights/what-a-website-actually-needs-to-do-for-a-contractor-its-not-look-nice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/insights/why-a-slow-loading-site-is-costing-you-calls-youll-never-know-about",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/category/web-design",
+            "link": "https://wayout.design/insights/why-call-for-a-quote-beats-a-contact-form-for-trade-businesses",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a397a0b6aeb8a2a3f9b3b2a4beb0b9",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/from-pre-launch-nobody-to-sponsorship-banners-across-wilmington",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/own-your-voice-boldly-why-a-clear-brand-voice-outlasts-every-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/should-your-business-follow-the-serif-trend",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/the-one-page-most-trade-businesses-forget-proof-youre-real",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/what-a-website-actually-needs-to-do-for-a-contractor-its-not-look-nice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/what-churches-get-wrong-about-visual-identity-and-why-it-matters-for-trust-not-vanity",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/what-happened-to-blanding-and-why-brands-are-getting-human-again",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/what-you-lose-when-your-branding-project-gets-handed-off-three-times",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/why-a-slow-loading-site-is-costing-you-calls-youll-never-know-about",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/insights/why-referrals-dry-up-the-moment-you-stop-asking-for-them",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/privacy-policy",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/privacy-policy",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/network",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f794989983969483b780968e988283d99392849e9099",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcff8eef6e0fafba1ebeafce6e8e1",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/a-logo-that-works-on-a-truck-door-and-a-phone-screen",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/custom-website-design-vs-website-builders-what-small-businesses-actually-give-up-with-a-template",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/generative-engine-optimization-geo-explained-how-small-businesses-get-found-in-ai-answers",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/the-3-second-test-what-a-prospect-decides-before-reading-your-site",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/the-hidden-cost-of-a-diy-logo-bad-files-color-drift-and-reprints",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/the-real-reason-your-quote-gets-compared-on-price-and-its-not-your-price",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/what-a-brand-identity-package-actually-includes-and-why-each-piece-matters",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/what-makes-a-homeowner-trust-a-stranger-enough-to-let-them-in",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/why-call-for-a-quote-beats-a-contact-form-for-trade-businesses",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/why-templated-branding-falls-apart-the-moment-you-use-it-twice",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/why-the-better-contractor-loses-the-bid-to-the-uglier-truck",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "link": "https://wayout.design/insights/why-we-do-good-work-isnt-a-marketing-message-anymore",
+            "status": 500
+          },
+          {
+            "page": "https://wayout.design/network/apply",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f4979b9a80959780b483958d9b8180da9091879d939a",
+            "status": 404
+          }
+        ],
+        "broken_link_count": 108,
+        "pages_missing_alt": [
+          {
+            "url": "https://wayout.design/",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/about",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/accessibility",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/brand-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/web-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/social-media",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/motion-graphics",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/seo-geo",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/consulting",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/faq",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/book",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/careers",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/ai-charter",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/legal-notice",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/terms-of-service",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/cookie-preference",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/be-social",
+            "images": [
+              "/assets/img/law-offices-of-mary-jordan.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/bless-the-youth",
+            "images": [
+              "/assets/img/rock-hill-finds.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/conspiracy-board-shop",
+            "images": [
+              "/assets/img/be-social.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/law-offices-of-mary-jordan",
+            "images": [
+              "/assets/img/tristin-grace-housekeeping.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/nest-run-club",
+            "images": [
+              "/assets/img/tuning-fork-solutions.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/neurodesign-coach",
+            "images": [
+              "/assets/img/bless-the-youth.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/rock-hill-finds",
+            "images": [
+              "/assets/img/wilmington-fc.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/tristin-grace-housekeeping",
+            "images": [
+              "/assets/img/neurodesign-coach.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/tuning-fork-solutions",
+            "images": [
+              "/assets/img/conspiracy-board-shop.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/wilmington-fc",
+            "images": [
+              "/assets/img/nest-run-club.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/category/branding",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/category/client-stories",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/category/growth-and-referrals",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/category/web-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/author/jackson-rowell",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/privacy-policy",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/network",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/network/apply",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          }
+        ],
+        "pages_missing_alt_count": 38,
+        "duplicate_titles": {
+          "Jackson Rowell — Insights — Way Out Custom Branding": [
+            "https://wayout.design/insights/author/jackson-rowell",
+            "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist"
+          ]
+        },
+        "duplicate_meta_descriptions": {
+          "Jackson runs Way Out Custom Branding, a one-person branding and web design studio in Wilmington, NC. He writes what he's learned building brands and websites for small business owners.": [
+            "https://wayout.design/insights/author/jackson-rowell",
+            "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist"
+          ]
+        },
+        "duplicate_meta_description_pages": 2,
+        "missing_meta_description": [],
+        "near_duplicate_pairs": [
+          {
+            "a": "https://wayout.design/work/bless-the-youth",
+            "b": "https://wayout.design/work/neurodesign-coach",
+            "similarity": 0.901
+          }
+        ],
+        "duplicate_content_pages": 2,
+        "noindex_pages": [
+          "https://wayout.design/network/apply"
+        ],
+        "fetch_errors": []
+      }
+    },
+    "pagespeed": {
+      "status": "error",
+      "source": "Google PageSpeed Insights API v5",
+      "ts": "2026-10-09T18:34:05+00:00",
+      "data": {
+        "errors": {
+          "https://wayout.design/": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2F&strategy=mobile&category=performance&category=accessibility&c",
+          "https://wayout.design/about": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fabout&strategy=mobile&category=performance&category=accessibil",
+          "https://wayout.design/accessibility": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Faccessibility&strategy=mobile&category=performance&category=ac",
+          "https://wayout.design/services": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fservices&strategy=mobile&category=performance&category=accessi",
+          "https://wayout.design/work": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fwork&strategy=mobile&category=performance&category=accessibili",
+          "https://wayout.design/faq": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Ffaq&strategy=mobile&category=performance&category=accessibilit",
+          "https://wayout.design/book": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fbook&strategy=mobile&category=performance&category=accessibili",
+          "https://wayout.design/careers": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fcareers&strategy=mobile&category=performance&category=accessib",
+          "https://wayout.design/ai-charter": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fai-charter&strategy=mobile&category=performance&category=acces",
+          "https://wayout.design/legal-notice": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Flegal-notice&strategy=mobile&category=performance&category=acc"
+        }
+      },
+      "note": "No PageSpeed results"
+    },
+    "gsc": {
+      "status": "needs_human",
+      "source": "Google Search Console API (searchanalytics.query)",
+      "ts": "2026-10-09T18:34:05+00:00",
+      "data": null,
+      "note": "GSC_SERVICE_ACCOUNT_JSON not set. One-time setup: Google Cloud project -> enable Search Console API -> service account -> add it as a user on the wayout.design GSC property."
+    },
+    "geo": {
+      "status": "needs_human",
+      "source": "DIY prompt log across configured LLM APIs",
+      "ts": "2026-10-09T18:34:05+00:00",
+      "data": {
+        "missing_keys": [
+          "gemini (GEMINI_API_KEY)",
+          "openrouter (OPENROUTER_API_KEY)",
+          "anthropic (ANTHROPIC_API_KEY)",
+          "exa (EXA_API_KEY)"
+        ]
+      },
+      "note": "No GEO provider keys set (GEMINI_API_KEY / OPENROUTER_API_KEY / ANTHROPIC_API_KEY)."
+    }
+  },
+  "queue_activity": {
+    "content": {
+      "id": "faq-page-do-contractors-need-a-website-if-they-have-a-google",
+      "item": "FAQ page: Do contractors need a website if they have a Google Business Profile?",
+      "status": "brief",
+      "notes": "Answer in the first sentence, directly quotable. Add FAQPage schema.",
+      "priority": 2,
+      "added": "2026-09-22",
+      "source": "growth plan",
+      "type": "faq",
+      "draft": "drafts/content/2026-10-09-faq-page-do-contractors-need-a-website-if-they-have-a-google.md",
+      "history": [
+        {
+          "status": "brief",
+          "ts": "2026-10-09T18:34:05+00:00",
+          "by": "seo-growth",
+          "note": "brief-only"
+        }
+      ]
+    },
+    "outreach": {
+      "id": "client-credit-link-ask-wilmington-fc",
+      "item": "Client credit link ask: Wilmington FC",
+      "status": "brief",
+      "notes": "Check their site footer for a 'designed by Way Out Custom Branding' link to wayout.design. If missing, draft a polite ask.",
+      "priority": 1,
+      "added": "2026-09-22",
+      "source": "growth plan",
+      "type": "client_credit",
+      "draft": "drafts/outreach/2026-10-09-client-credit-link-ask-wilmington-fc.md",
+      "history": [
+        {
+          "status": "brief",
+          "ts": "2026-10-09T18:34:05+00:00",
+          "by": "seo-growth",
+          "note": "brief-only"
+        }
+      ]
+    }
+  },
+  "diff": {
+    "first_run": false,
+    "previous_date": "2026-10-07",
+    "crawl": {
+      "new_broken_links": [
+        {
+          "page": "https://wayout.design/",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#c0a3afaeb4a1a3b480b7a1b9afb5b4eea4a5b3a9a7ae"
+        },
+        {
+          "page": "https://wayout.design/about",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#66050908120705122611071f091312480203150f0108"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e784888993868493a790869e889293c98382948e8089"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#fb9894958f9a988fbb8c9a82948e8fd59f9e88929c95"
+        },
+        {
+          "page": "https://wayout.design/ai-charter",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#6c0f0302180d0f182c1b0d150319184208091f050b02"
+        },
+        {
+          "page": "https://wayout.design/book",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#21424e4f55404255615640584e54550f45445248464f"
+        },
+        {
+          "page": "https://wayout.design/careers",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a6c5c9c8d2c7c5d2e6d1c7dfc9d3d288c2c3d5cfc1c8"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#1e7d71706a7f7d6a5e697f67716b6a307a7b6d777970"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#90f3fffee4f1f3e4d0e7f1e9ffe5e4bef4f5e3f9f7fe"
+        },
+        {
+          "page": "https://wayout.design/faq",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#dfbcb0b1abbebcab9fa8bea6b0aaabf1bbbaacb6b8b1"
+        },
+        {
+          "page": "https://wayout.design/insights",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#cfaca0a1bbaeacbb8fb8aeb6a0babbe1abaabca6a8a1"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a397a0b6aeb8a2a3f9b3b2a4beb0b9"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcff8eef6e0fafba1ebeafce6e8e1"
+        },
+        {
+          "page": "https://wayout.design/insights/category/branding",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d"
+        },
+        {
+          "page": "https://wayout.design/insights/category/client-stories",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8cefe3e2f8edeff8ccfbedf5e3f9f8a2e8e9ffe5ebe2"
+        },
+        {
+          "page": "https://wayout.design/insights/category/growth-and-referrals",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e88b87869c898b9ca89f8991879d9cc68c8d9b818f86"
+        },
+        {
+          "page": "https://wayout.design/insights/category/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#adcec2c3d9ccced9eddaccd4c2d8d983c9c8dec4cac3"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#294a46475d484a5d695e4850465c5d074d4c5a404e47"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#87e4e8e9f3e6e4f3c7f0e6fee8f2f3a9e3e2f4eee0e9"
+        },
+        {
+          "page": "https://wayout.design/network",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f794989983969483b780968e988283d99392849e9099"
+        },
+        {
+          "page": "https://wayout.design/network/apply",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f4979b9a80959780b483958d9b8180da9091879d939a"
+        },
+        {
+          "page": "https://wayout.design/privacy-policy",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb"
+        },
+        {
+          "page": "https://wayout.design/services",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a7c4c8c9d3c6c4d3e7d0c6dec8d2d389c3c2d4cec0c9"
+        },
+        {
+          "page": "https://wayout.design/services/brand-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#197a76776d787a6d596e7860766c6d377d7c6a707e77"
+        },
+        {
+          "page": "https://wayout.design/services/consulting",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ea8985849e8b899eaa9d8b93859f9ec48e8f99838d84"
+        },
+        {
+          "page": "https://wayout.design/services/motion-graphics",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f1929e9f85909285b18690889e8485df95948298969f"
+        },
+        {
+          "page": "https://wayout.design/services/seo-geo",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e1828e8f95808295a19680988e9495cf85849288868f"
+        },
+        {
+          "page": "https://wayout.design/services/social-media",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d"
+        },
+        {
+          "page": "https://wayout.design/services/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#65060a0b110406112512041c0a10114b0100160c020b"
+        },
+        {
+          "page": "https://wayout.design/terms-of-service",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#c5a6aaabb1a4a6b185b2a4bcaab0b1eba1a0b6aca2ab"
+        },
+        {
+          "page": "https://wayout.design/work",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ee8d81809a8f8d9aae998f97819b9ac08a8b9d878980"
+        },
+        {
+          "page": "https://wayout.design/work/be-social",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e88b87869c898b9ca89f8991879d9cc68c8d9b818f86"
+        },
+        {
+          "page": "https://wayout.design/work/bless-the-youth",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8deee2e3f9eceef9cdfaecf4e2f8f9a3e9e8fee4eae3"
+        },
+        {
+          "page": "https://wayout.design/work/conspiracy-board-shop",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb"
+        },
+        {
+          "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e2818d8c96838196a295839b8d9796cc8687918b858c"
+        },
+        {
+          "page": "https://wayout.design/work/nest-run-club",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#88ebe7e6fce9ebfcc8ffe9f1e7fdfca6ecedfbe1efe6"
+        },
+        {
+          "page": "https://wayout.design/work/neurodesign-coach",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#03606c6d776260774374627a6c76772d6766706a646d"
+        },
+        {
+          "page": "https://wayout.design/work/rock-hill-finds",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#89eae6e7fde8eafdc9fee8f0e6fcfda7edecfae0eee7"
+        },
+        {
+          "page": "https://wayout.design/work/tristin-grace-housekeeping",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#0f6c60617b6e6c7b4f786e76607a7b216b6a7c666861"
+        },
+        {
+          "page": "https://wayout.design/work/tuning-fork-solutions",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9efdf1f0eafffdeadee9ffe7f1ebeab0fafbedf7f9f0"
+        },
+        {
+          "page": "https://wayout.design/work/wilmington-fc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d5b6babba1b4b6a195a2b4acbaa0a1fbb1b0a6bcb2bb"
+        }
+      ],
+      "fixed_broken_links": [
+        {
+          "page": "https://wayout.design/",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d2b1bdbca6b3b1a692a5b3abbda7a6fcb6b7a1bbb5bc"
+        },
+        {
+          "page": "https://wayout.design/about",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#64070b0a100507102413051d0b11104a0001170d030a"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#284b47465c494b5c685f4951475d5c064c4d5b414f46"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#3c5f5352485d5f487c4b5d455349481258594f555b52"
+        },
+        {
+          "page": "https://wayout.design/ai-charter",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#0d6e6263796c6e794d7a6c746278792369687e646a63"
+        },
+        {
+          "page": "https://wayout.design/book",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#04676b6a706567704473657d6b71702a6061776d636a"
+        },
+        {
+          "page": "https://wayout.design/careers",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d0b3bfbea4b1b3a490a7b1a9bfa5a4feb4b5a3b9b7be"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#690a06071d080a1d291e0810061c1d470d0c1a000e07"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a1c2cecfd5c0c2d5e1d6c0d8ced4d58fc5c4d2c8c6cf"
+        },
+        {
+          "page": "https://wayout.design/faq",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ff9c90918b9e9c8bbf889e86908a8bd19b9a8c969891"
+        },
+        {
+          "page": "https://wayout.design/insights",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ccafa3a2b8adafb88cbbadb5a3b9b8e2a8a9bfa5aba2"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#27444849534644536750465e485253094342544e4049"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell?cursor=colors-and-fonts-arent-decoration-theyre-how-people-remember-you-exist",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#b7d4d8d9c3d6d4c3f7c0d6ced8c2c399d3d2c4ded0d9"
+        },
+        {
+          "page": "https://wayout.design/insights/category/branding",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#98fbf7f6ecf9fbecd8eff9e1f7edecb6fcfdebf1fff6"
+        },
+        {
+          "page": "https://wayout.design/insights/category/client-stories",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#26454948524745526651475f495352084243554f4148"
+        },
+        {
+          "page": "https://wayout.design/insights/category/growth-and-referrals",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#0e6d61607a6f6d7a4e796f77617b7a206a6b7d676960"
+        },
+        {
+          "page": "https://wayout.design/insights/category/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#4f2c20213b2e2c3b0f382e36203a3b612b2a3c262821"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#35565a5b415456417542544c5a40411b5150465c525b"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9bf8f4f5effaf8efdbecfae2f4eeefb5fffee8f2fcf5"
+        },
+        {
+          "page": "https://wayout.design/network",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d"
+        },
+        {
+          "page": "https://wayout.design/network/apply",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#6c0f0302180d0f182c1b0d150319184208091f050b02"
+        },
+        {
+          "page": "https://wayout.design/privacy-policy",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefacddbc3d5cfce94dedfc9d3ddd4"
+        },
+        {
+          "page": "https://wayout.design/services",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#086b67667c696b7c487f6971677d7c266c6d7b616f66"
+        },
+        {
+          "page": "https://wayout.design/services/brand-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#91f2feffe5f0f2e5d1e6f0e8fee4e5bff5f4e2f8f6ff"
+        },
+        {
+          "page": "https://wayout.design/services/consulting",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#0c6f6362786d6f784c7b6d756379782268697f656b62"
+        },
+        {
+          "page": "https://wayout.design/services/motion-graphics",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#2c4f4342584d4f586c5b4d554359580248495f454b42"
+        },
+        {
+          "page": "https://wayout.design/services/seo-geo",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#395a56574d585a4d794e5840564c4d175d5c4a505e57"
+        },
+        {
+          "page": "https://wayout.design/services/social-media",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#81e2eeeff5e0e2f5c1f6e0f8eef4f5afe5e4f2e8e6ef"
+        },
+        {
+          "page": "https://wayout.design/services/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#96f5f9f8e2f7f5e2d6e1f7eff9e3e2b8f2f3e5fff1f8"
+        },
+        {
+          "page": "https://wayout.design/terms-of-service",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#482b27263c292b3c083f2931273d3c662c2d3b212f26"
+        },
+        {
+          "page": "https://wayout.design/work",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f0939f9e84919384b08791899f8584de94958399979e"
+        },
+        {
+          "page": "https://wayout.design/work/be-social",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#fb9894958f9a988fbb8c9a82948e8fd59f9e88929c95"
+        },
+        {
+          "page": "https://wayout.design/work/bless-the-youth",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#26454948524745526651475f495352084243554f4148"
+        },
+        {
+          "page": "https://wayout.design/work/conspiracy-board-shop",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#17747879637674635760766e786263397372647e7079"
+        },
+        {
+          "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#36555958425755427641574f594342185253455f5158"
+        },
+        {
+          "page": "https://wayout.design/work/nest-run-club",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#7a1915140e1b190e3a0d1b03150f0e541e1f09131d14"
+        },
+        {
+          "page": "https://wayout.design/work/neurodesign-coach",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#2a4945445e4b495e6a5d4b53455f5e044e4f59434d44"
+        },
+        {
+          "page": "https://wayout.design/work/rock-hill-finds",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#07646869736664734770667e687273296362746e6069"
+        },
+        {
+          "page": "https://wayout.design/work/tristin-grace-housekeeping",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb"
+        },
+        {
+          "page": "https://wayout.design/work/tuning-fork-solutions",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#fe9d91908a9f9d8abe899f87918b8ad09a9b8d979990"
+        },
+        {
+          "page": "https://wayout.design/work/wilmington-fc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#23404c4d574240576354425a4c56570d4746504a444d"
+        }
+      ],
+      "new_pages_missing_alt": [],
+      "fixed_pages_missing_alt": [],
+      "counts": {
+        "pages_crawled": {
+          "now": 38,
+          "was": 38,
+          "delta": 0
+        },
+        "broken_link_count": {
+          "now": 108,
+          "was": 108,
+          "delta": 0
+        },
+        "pages_missing_alt_count": {
+          "now": 38,
+          "was": 38,
+          "delta": 0
+        },
+        "duplicate_meta_description_pages": {
+          "now": 2,
+          "was": 2,
+          "delta": 0
+        },
+        "duplicate_content_pages": {
+          "now": 2,
+          "was": 6,
+          "delta": -4
+        }
+      }
+    }
+  }
+}
