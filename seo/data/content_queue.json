@@ -211,12 +211,21 @@
   {
     "id": "case-study-nest-run-club",
     "item": "Case study: Nest Run Club",
-    "status": "pending",
+    "status": "brief",
     "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
     "priority": 2,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "case_study"
+    "type": "case_study",
+    "draft": "drafts/content/2026-10-19-case-study-nest-run-club.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-10-19T18:52:31+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "case-study-tuning-fork-solutions",
