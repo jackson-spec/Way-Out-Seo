@@ -230,12 +230,21 @@
   {
     "id": "case-study-tuning-fork-solutions",
     "item": "Case study: Tuning Fork Solutions",
-    "status": "pending",
+    "status": "brief",
     "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
     "priority": 2,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "case_study"
+    "type": "case_study",
+    "draft": "drafts/content/2026-10-21-case-study-tuning-fork-solutions.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-10-21T17:43:21+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "case-study-elevation-church",
