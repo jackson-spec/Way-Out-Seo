@@ -1,0 +1,1073 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:17:50+00:00",
+  "steps": {
+    "crawl": {
+      "status": "ok",
+      "source": "self-hosted crawler (requests + BeautifulSoup)",
+      "ts": "2026-10-30T18:17:48+00:00",
+      "data": {
+        "pages_crawled": 41,
+        "page_urls": [
+          "https://wayout.design/",
+          "https://wayout.design/about",
+          "https://wayout.design/accessibility",
+          "https://wayout.design/services",
+          "https://wayout.design/services/brand-design",
+          "https://wayout.design/services/web-design",
+          "https://wayout.design/services/social-media",
+          "https://wayout.design/services/motion-graphics",
+          "https://wayout.design/services/seo-geo",
+          "https://wayout.design/services/consulting",
+          "https://wayout.design/work",
+          "https://wayout.design/faq",
+          "https://wayout.design/book",
+          "https://wayout.design/careers",
+          "https://wayout.design/ai-charter",
+          "https://wayout.design/legal-notice",
+          "https://wayout.design/terms-of-service",
+          "https://wayout.design/cookie-preference",
+          "https://wayout.design/work/be-social",
+          "https://wayout.design/work/bless-the-youth",
+          "https://wayout.design/work/conspiracy-board-shop",
+          "https://wayout.design/work/law-offices-of-mary-jordan",
+          "https://wayout.design/work/nest-run-club",
+          "https://wayout.design/work/neurodesign-coach",
+          "https://wayout.design/work/rock-hill-finds",
+          "https://wayout.design/work/tristin-grace-housekeeping",
+          "https://wayout.design/work/tuning-fork-solutions",
+          "https://wayout.design/work/wilmington-fc",
+          "https://wayout.design/insights",
+          "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+          "https://wayout.design/insights/meet-the-best-brand-designer-in-wilmington-nc",
+          "https://wayout.design/insights/why-im-the-best-web-designer-in-wilmington-nc",
+          "https://wayout.design/insights/what-is-a-brand-voice-and-does-your-small-business-need-one",
+          "https://wayout.design/insights/how-to-develop-a-brand-voice",
+          "https://wayout.design/insights/why-chasing-brand-trends-costs-you-more-than-it-gives",
+          "https://wayout.design/insights?category=branding",
+          "https://wayout.design/insights?category=web-design",
+          "https://wayout.design/insights/author/jackson-rowell",
+          "https://wayout.design/privacy-policy",
+          "https://wayout.design/network",
+          "https://wayout.design/network/apply"
+        ],
+        "broken_links": [
+          {
+            "page": "https://wayout.design/",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#b9dad6d7cdd8dacdf9ced8c0d6cccd97dddccad0ded7",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/about",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#086b67667c696b7c487f6971677d7c266c6d7b616f66",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/accessibility",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#2c4f4342584d4f586c5b4d554359580248495f454b42",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/accessibility",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#ff9c90918b9e9c8bbf889e86908a8bd19b9a8c969891",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#50333f3e24313324102731293f25247e34352339373e",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/brand-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f99a96978d989a8db98e9880968c8dd79d9c8a909e97",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/web-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#12717d7c667371665265736b7d67663c7677617b757c",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/social-media",
+            "link": "https://besocialilm.com",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/social-media",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#16757978627775625661776f796362387273657f7178",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/motion-graphics",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefacddbc3d5cfce94dedfc9d3ddd4",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/seo-geo",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#1c7f7372687d7f685c6b7d657369683278796f757b72",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/services/consulting",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#17747879637674635760766e786263397372647e7079",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#16757978627775625661776f796362387273657f7178",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/faq",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#06656968726765724671677f697372286263756f6168",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/book",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#2e4d41405a4f4d5a6e594f57415b5a004a4b5d474940",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/careers",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#9af9f5f4eefbf9eedaedfbe3f5efeeb4feffe9f3fdf4",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/ai-charter",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f794989983969483b780968e988283d99392849e9099",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/legal-notice",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#51323e3f25303225112630283e24257f35342238363f",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/legal-notice",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#d0b3bfbea4b1b3a490a7b1a9bfa5a4feb4b5a3b9b7be",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/terms-of-service",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/terms-of-service",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#fb9894958f9a988fbb8c9a82948e8fd59f9e88929c95",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/cookie-preference",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#0e6d61607a6f6d7a4e796f77617b7a206a6b7d676960",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/cookie-preference",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f695999882979582b681978f998382d89293859f9198",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/be-social",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#abc8c4c5dfcac8dfebdccad2c4dedf85cfced8c2ccc5",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/bless-the-youth",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#ed8e8283998c8e99ad9a8c94829899c389889e848a83",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/conspiracy-board-shop",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#a8cbc7c6dcc9cbdce8dfc9d1c7dddc86cccddbc1cfc6",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#2d4e4243594c4e596d5a4c544258590349485e444a43",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/nest-run-club",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#ea8985849e8b899eaa9d8b93859f9ec48e8f99838d84",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/neurodesign-coach",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#05666a6b716466714572647c6a70712b6160766c626b",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/rock-hill-finds",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#8eede1e0faefedfacef9eff7e1fbfaa0eaebfde7e9e0",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/tristin-grace-housekeeping",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#f89b97968c999b8cb88f9981978d8cd69c9d8b919f96",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/tuning-fork-solutions",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#d4b7bbbaa0b5b7a094a3b5adbba1a0fab0b1a7bdb3ba",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/work/wilmington-fc",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#35565a5b415456417542544c5a40411b5150465c525b",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#4e2d21203a2f2d3a0e392f37213b3a602a2b3d272920",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#1f7c70716b7e7c6b5f687e66706a6b317b7a6c767871",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/meet-the-best-brand-designer-in-wilmington-nc",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#dbb8b4b5afbab8af9bacbaa2b4aeaff5bfbea8b2bcb5",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/why-im-the-best-web-designer-in-wilmington-nc",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#01626e6f75606275417660786e74752f65647268666f",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/what-is-a-brand-voice-and-does-your-small-business-need-one",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#92f1fdfce6f3f1e6d2e5f3ebfde7e6bcf6f7e1fbf5fc",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/how-to-develop-a-brand-voice",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#7f1c10110b1e1c0b3f081e06100a0b511b1a0c161811",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/why-chasing-brand-trends-costs-you-more-than-it-gives",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights?category=branding",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcff8eef6e0fafba1ebeafce6e8e1",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights?category=web-design",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#04676b6a706567704473657d6b71702a6061776d636a",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/insights/author/jackson-rowell",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#03606c6d776260774374627a6c76772d6766706a646d",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/privacy-policy",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/privacy-policy",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#accfc3c2d8cdcfd8ecdbcdd5c3d9d882c8c9dfc5cbc2",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/network",
+            "link": "https://besocialilm.com",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/network",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#7d1e1213091c1e093d0a1c041208095319180e141a13",
+            "status": 404
+          },
+          {
+            "page": "https://wayout.design/network/apply",
+            "link": "https://wayout.design/cdn-cgi/l/email-protection#9ffcf0f1ebfefcebdfe8fee6f0eaebb1fbfaecf6f8f1",
+            "status": 404
+          }
+        ],
+        "broken_link_count": 48,
+        "pages_missing_alt": [
+          {
+            "url": "https://wayout.design/",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/about",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/accessibility",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/brand-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/web-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/social-media",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/motion-graphics",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/seo-geo",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/services/consulting",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/faq",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/book",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/careers",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/ai-charter",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/legal-notice",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/terms-of-service",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/cookie-preference",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/be-social",
+            "images": [
+              "/assets/img/law-offices-of-mary-jordan.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/bless-the-youth",
+            "images": [
+              "/assets/img/rock-hill-finds.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/conspiracy-board-shop",
+            "images": [
+              "/assets/img/be-social.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/law-offices-of-mary-jordan",
+            "images": [
+              "/assets/img/tristin-grace-housekeeping.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/nest-run-club",
+            "images": [
+              "/assets/img/tuning-fork-solutions.jpg?v=2",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/neurodesign-coach",
+            "images": [
+              "/assets/img/bless-the-youth.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/rock-hill-finds",
+            "images": [
+              "/assets/img/wilmington-fc.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/tristin-grace-housekeeping",
+            "images": [
+              "/assets/img/neurodesign-coach.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/tuning-fork-solutions",
+            "images": [
+              "/assets/img/conspiracy-board-shop.jpg?v=4",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/work/wilmington-fc",
+            "images": [
+              "/assets/img/nest-run-club.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/meet-the-best-brand-designer-in-wilmington-nc",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/why-im-the-best-web-designer-in-wilmington-nc",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/what-is-a-brand-voice-and-does-your-small-business-need-one",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/how-to-develop-a-brand-voice",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/why-chasing-brand-trends-costs-you-more-than-it-gives",
+            "images": [
+              "/assets/img/jackson.jpg",
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights?category=branding",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights?category=web-design",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/insights/author/jackson-rowell",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/privacy-policy",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/network",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          },
+          {
+            "url": "https://wayout.design/network/apply",
+            "images": [
+              "/assets/svg/logo-full.svg"
+            ]
+          }
+        ],
+        "pages_missing_alt_count": 41,
+        "duplicate_titles": {},
+        "duplicate_meta_descriptions": {
+          "Notes on brand and website design for small businesses, from Way Out Custom Branding in Wilmington, NC.": [
+            "https://wayout.design/insights",
+            "https://wayout.design/insights?category=branding",
+            "https://wayout.design/insights?category=web-design"
+          ]
+        },
+        "duplicate_meta_description_pages": 3,
+        "missing_meta_description": [],
+        "near_duplicate_pairs": [
+          {
+            "a": "https://wayout.design/work/bless-the-youth",
+            "b": "https://wayout.design/work/neurodesign-coach",
+            "similarity": 0.901
+          },
+          {
+            "a": "https://wayout.design/insights",
+            "b": "https://wayout.design/insights?category=branding",
+            "similarity": 0.997
+          },
+          {
+            "a": "https://wayout.design/insights",
+            "b": "https://wayout.design/insights?category=web-design",
+            "similarity": 0.997
+          },
+          {
+            "a": "https://wayout.design/insights?category=branding",
+            "b": "https://wayout.design/insights?category=web-design",
+            "similarity": 0.996
+          }
+        ],
+        "duplicate_content_pages": 5,
+        "noindex_pages": [
+          "https://wayout.design/network/apply"
+        ],
+        "fetch_errors": []
+      }
+    },
+    "pagespeed": {
+      "status": "error",
+      "source": "Google PageSpeed Insights API v5",
+      "ts": "2026-10-30T18:17:50+00:00",
+      "data": {
+        "errors": {
+          "https://wayout.design/": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2F&strategy=mobile&category=performance&category=accessibility&c",
+          "https://wayout.design/about": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fabout&strategy=mobile&category=performance&category=accessibil",
+          "https://wayout.design/accessibility": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Faccessibility&strategy=mobile&category=performance&category=ac",
+          "https://wayout.design/services": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fservices&strategy=mobile&category=performance&category=accessi",
+          "https://wayout.design/work": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fwork&strategy=mobile&category=performance&category=accessibili",
+          "https://wayout.design/faq": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Ffaq&strategy=mobile&category=performance&category=accessibilit",
+          "https://wayout.design/book": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fbook&strategy=mobile&category=performance&category=accessibili",
+          "https://wayout.design/careers": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fcareers&strategy=mobile&category=performance&category=accessib",
+          "https://wayout.design/ai-charter": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Fai-charter&strategy=mobile&category=performance&category=acces",
+          "https://wayout.design/legal-notice": "429 Client Error: Too Many Requests for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwayout.design%2Flegal-notice&strategy=mobile&category=performance&category=acc"
+        }
+      },
+      "note": "No PageSpeed results"
+    },
+    "gsc": {
+      "status": "needs_human",
+      "source": "Google Search Console API (searchanalytics.query)",
+      "ts": "2026-10-30T18:17:50+00:00",
+      "data": null,
+      "note": "GSC_SERVICE_ACCOUNT_JSON not set. One-time setup: Google Cloud project -> enable Search Console API -> service account -> add it as a user on the wayout.design GSC property."
+    },
+    "geo": {
+      "status": "needs_human",
+      "source": "DIY prompt log across configured LLM APIs",
+      "ts": "2026-10-30T18:17:50+00:00",
+      "data": {
+        "missing_keys": [
+          "gemini (GEMINI_API_KEY)",
+          "openrouter (OPENROUTER_API_KEY)",
+          "anthropic (ANTHROPIC_API_KEY)",
+          "exa (EXA_API_KEY)"
+        ]
+      },
+      "note": "No GEO provider keys set (GEMINI_API_KEY / OPENROUTER_API_KEY / ANTHROPIC_API_KEY)."
+    }
+  },
+  "queue_activity": {
+    "content": {
+      "id": "case-study-neurodesign-coach",
+      "item": "Case study: NeuroDesign Coach",
+      "status": "brief",
+      "notes": "Before/after + results framing. Doubles as link-attraction asset and AI-citable proof point. Real results only; mark gaps [JACKSON: ...].",
+      "priority": 2,
+      "added": "2026-09-22",
+      "source": "growth plan",
+      "type": "case_study",
+      "draft": "drafts/content/2026-10-30-case-study-neurodesign-coach.md",
+      "history": [
+        {
+          "status": "brief",
+          "ts": "2026-10-30T18:17:50+00:00",
+          "by": "seo-growth",
+          "note": "brief-only"
+        }
+      ]
+    },
+    "outreach": {
+      "id": "wmpo-org-local-business-resource-partner-listing",
+      "item": "wmpo.org - Local business resource/partner listing",
+      "status": "brief",
+      "notes": "Regional planning org. From Opinly backlink gap (one-time).",
+      "priority": 2,
+      "added": "2026-09-22",
+      "source": "growth plan",
+      "type": "backlink_target",
+      "domain": "wmpo.org",
+      "draft": "drafts/outreach/2026-10-30-wmpo-org-local-business-resource-partner-listing.md",
+      "history": [
+        {
+          "status": "brief",
+          "ts": "2026-10-30T18:17:50+00:00",
+          "by": "seo-growth",
+          "note": "brief-only"
+        }
+      ]
+    }
+  },
+  "diff": {
+    "first_run": false,
+    "previous_date": "2026-10-28",
+    "crawl": {
+      "new_broken_links": [
+        {
+          "page": "https://wayout.design/",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#b9dad6d7cdd8dacdf9ced8c0d6cccd97dddccad0ded7"
+        },
+        {
+          "page": "https://wayout.design/about",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#086b67667c696b7c487f6971677d7c266c6d7b616f66"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#2c4f4342584d4f586c5b4d554359580248495f454b42"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ff9c90918b9e9c8bbf889e86908a8bd19b9a8c969891"
+        },
+        {
+          "page": "https://wayout.design/ai-charter",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f794989983969483b780968e988283d99392849e9099"
+        },
+        {
+          "page": "https://wayout.design/book",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#2e4d41405a4f4d5a6e594f57415b5a004a4b5d474940"
+        },
+        {
+          "page": "https://wayout.design/careers",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9af9f5f4eefbf9eedaedfbe3f5efeeb4feffe9f3fdf4"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#0e6d61607a6f6d7a4e796f77617b7a206a6b7d676960"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f695999882979582b681978f998382d89293859f9198"
+        },
+        {
+          "page": "https://wayout.design/faq",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#06656968726765724671677f697372286263756f6168"
+        },
+        {
+          "page": "https://wayout.design/insights",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#4e2d21203a2f2d3a0e392f37213b3a602a2b3d272920"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#03606c6d776260774374627a6c76772d6766706a646d"
+        },
+        {
+          "page": "https://wayout.design/insights/how-to-develop-a-brand-voice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#7f1c10110b1e1c0b3f081e06100a0b511b1a0c161811"
+        },
+        {
+          "page": "https://wayout.design/insights/meet-the-best-brand-designer-in-wilmington-nc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#dbb8b4b5afbab8af9bacbaa2b4aeaff5bfbea8b2bcb5"
+        },
+        {
+          "page": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#1f7c70716b7e7c6b5f687e66706a6b317b7a6c767871"
+        },
+        {
+          "page": "https://wayout.design/insights/what-is-a-brand-voice-and-does-your-small-business-need-one",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#92f1fdfce6f3f1e6d2e5f3ebfde7e6bcf6f7e1fbf5fc"
+        },
+        {
+          "page": "https://wayout.design/insights/why-chasing-brand-trends-costs-you-more-than-it-gives",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5e2f4ecfae0e1bbf1f0e6fcf2fb"
+        },
+        {
+          "page": "https://wayout.design/insights/why-im-the-best-web-designer-in-wilmington-nc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#01626e6f75606275417660786e74752f65647268666f"
+        },
+        {
+          "page": "https://wayout.design/insights?category=branding",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcff8eef6e0fafba1ebeafce6e8e1"
+        },
+        {
+          "page": "https://wayout.design/insights?category=web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#04676b6a706567704473657d6b71702a6061776d636a"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#51323e3f25303225112630283e24257f35342238363f"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d0b3bfbea4b1b3a490a7b1a9bfa5a4feb4b5a3b9b7be"
+        },
+        {
+          "page": "https://wayout.design/network",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#7d1e1213091c1e093d0a1c041208095319180e141a13"
+        },
+        {
+          "page": "https://wayout.design/network/apply",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9ffcf0f1ebfefcebdfe8fee6f0eaebb1fbfaecf6f8f1"
+        },
+        {
+          "page": "https://wayout.design/privacy-policy",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#accfc3c2d8cdcfd8ecdbcdd5c3d9d882c8c9dfc5cbc2"
+        },
+        {
+          "page": "https://wayout.design/services",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#50333f3e24313324102731293f25247e34352339373e"
+        },
+        {
+          "page": "https://wayout.design/services/brand-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f99a96978d989a8db98e9880968c8dd79d9c8a909e97"
+        },
+        {
+          "page": "https://wayout.design/services/consulting",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#17747879637674635760766e786263397372647e7079"
+        },
+        {
+          "page": "https://wayout.design/services/motion-graphics",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefacddbc3d5cfce94dedfc9d3ddd4"
+        },
+        {
+          "page": "https://wayout.design/services/seo-geo",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#1c7f7372687d7f685c6b7d657369683278796f757b72"
+        },
+        {
+          "page": "https://wayout.design/services/social-media",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#16757978627775625661776f796362387273657f7178"
+        },
+        {
+          "page": "https://wayout.design/services/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#12717d7c667371665265736b7d67663c7677617b757c"
+        },
+        {
+          "page": "https://wayout.design/terms-of-service",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#fb9894958f9a988fbb8c9a82948e8fd59f9e88929c95"
+        },
+        {
+          "page": "https://wayout.design/work",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#16757978627775625661776f796362387273657f7178"
+        },
+        {
+          "page": "https://wayout.design/work/be-social",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#abc8c4c5dfcac8dfebdccad2c4dedf85cfced8c2ccc5"
+        },
+        {
+          "page": "https://wayout.design/work/bless-the-youth",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ed8e8283998c8e99ad9a8c94829899c389889e848a83"
+        },
+        {
+          "page": "https://wayout.design/work/conspiracy-board-shop",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a8cbc7c6dcc9cbdce8dfc9d1c7dddc86cccddbc1cfc6"
+        },
+        {
+          "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#2d4e4243594c4e596d5a4c544258590349485e444a43"
+        },
+        {
+          "page": "https://wayout.design/work/nest-run-club",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ea8985849e8b899eaa9d8b93859f9ec48e8f99838d84"
+        },
+        {
+          "page": "https://wayout.design/work/neurodesign-coach",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#05666a6b716466714572647c6a70712b6160766c626b"
+        },
+        {
+          "page": "https://wayout.design/work/rock-hill-finds",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8eede1e0faefedfacef9eff7e1fbfaa0eaebfde7e9e0"
+        },
+        {
+          "page": "https://wayout.design/work/tristin-grace-housekeeping",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f89b97968c999b8cb88f9981978d8cd69c9d8b919f96"
+        },
+        {
+          "page": "https://wayout.design/work/tuning-fork-solutions",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d4b7bbbaa0b5b7a094a3b5adbba1a0fab0b1a7bdb3ba"
+        },
+        {
+          "page": "https://wayout.design/work/wilmington-fc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#35565a5b415456417542544c5a40411b5150465c525b"
+        }
+      ],
+      "fixed_broken_links": [
+        {
+          "page": "https://wayout.design/",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#30535f5e44515344704751495f45441e54554359575e"
+        },
+        {
+          "page": "https://wayout.design/about",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#c9aaa6a7bda8aabd89bea8b0a6bcbde7adacbaa0aea7"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#bfdcd0d1cbdedccbffc8dec6d0cacb91dbdaccd6d8d1"
+        },
+        {
+          "page": "https://wayout.design/accessibility",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a397a0b6aeb8a2a3f9b3b2a4beb0b9"
+        },
+        {
+          "page": "https://wayout.design/ai-charter",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#c7a4a8a9b3a6a4b387b0a6bea8b2b3e9a3a2b4aea0a9"
+        },
+        {
+          "page": "https://wayout.design/book",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#caa9a5a4beaba9be8abdabb3a5bfbee4aeafb9a3ada4"
+        },
+        {
+          "page": "https://wayout.design/careers",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#8be8e4e5ffeae8ffcbfceaf2e4feffa5efeef8e2ece5"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#e685898892878592a691879f899392c88283958f8188"
+        },
+        {
+          "page": "https://wayout.design/cookie-preference",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ea8985849e8b899eaa9d8b93859f9ec48e8f99838d84"
+        },
+        {
+          "page": "https://wayout.design/faq",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9ffcf0f1ebfefcebdfe8fee6f0eaebb1fbfaecf6f8f1"
+        },
+        {
+          "page": "https://wayout.design/insights",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#33505c5d475250477344524a5c46471d5756405a545d"
+        },
+        {
+          "page": "https://wayout.design/insights/author/jackson-rowell",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#9af9f5f4eefbf9eedaedfbe3f5efeeb4feffe9f3fdf4"
+        },
+        {
+          "page": "https://wayout.design/insights/how-to-develop-a-brand-voice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#c4a7abaab0a5a7b084b3a5bdabb1b0eaa0a1b7ada3aa"
+        },
+        {
+          "page": "https://wayout.design/insights/meet-the-best-brand-designer-in-wilmington-nc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#17747879637674635760766e786263397372647e7079"
+        },
+        {
+          "page": "https://wayout.design/insights/position-before-style-how-to-find-what-sets-your-business-apart",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#4e2d21203a2f2d3a0e392f37213b3a602a2b3d272920"
+        },
+        {
+          "page": "https://wayout.design/insights/what-is-a-brand-voice-and-does-your-small-business-need-one",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#791a16170d181a0d390e1800160c0d571d1c0a101e17"
+        },
+        {
+          "page": "https://wayout.design/insights/why-im-the-best-web-designer-in-wilmington-nc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#b4d7dbdac0d5d7c0f4c3d5cddbc1c09ad0d1c7ddd3da"
+        },
+        {
+          "page": "https://wayout.design/insights?category=branding",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f3909c9d87929087b384928a9c8687dd9796809a949d"
+        },
+        {
+          "page": "https://wayout.design/insights?category=web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#92f1fdfce6f3f1e6d2e5f3ebfde7e6bcf6f7e1fbf5fc"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#20434f4e54414354605741594f55540e44455349474e"
+        },
+        {
+          "page": "https://wayout.design/legal-notice",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefacddbc3d5cfce94dedfc9d3ddd4"
+        },
+        {
+          "page": "https://wayout.design/network",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#593a36372d383a2d192e3820362c2d773d3c2a303e37"
+        },
+        {
+          "page": "https://wayout.design/network/apply",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#b0d3dfdec4d1d3c4f0c7d1c9dfc5c49ed4d5c3d9d7de"
+        },
+        {
+          "page": "https://wayout.design/privacy-policy",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#690a06071d080a1d291e0810061c1d470d0c1a000e07"
+        },
+        {
+          "page": "https://wayout.design/services",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#debdb1b0aabfbdaa9ea9bfa7b1abaaf0babbadb7b9b0"
+        },
+        {
+          "page": "https://wayout.design/services/brand-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#30535f5e44515344704751495f45441e54554359575e"
+        },
+        {
+          "page": "https://wayout.design/services/consulting",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#10737f7e64717364506771697f65643e74756379777e"
+        },
+        {
+          "page": "https://wayout.design/services/motion-graphics",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#6a0905041e0b091e2a1d0b13051f1e440e0f19030d04"
+        },
+        {
+          "page": "https://wayout.design/services/seo-geo",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#ec8f8382988d8f98ac9b8d95839998c288899f858b82"
+        },
+        {
+          "page": "https://wayout.design/services/social-media",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefacddbc3d5cfce94dedfc9d3ddd4"
+        },
+        {
+          "page": "https://wayout.design/services/web-design",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d0b3bfbea4b1b3a490a7b1a9bfa5a4feb4b5a3b9b7be"
+        },
+        {
+          "page": "https://wayout.design/terms-of-service",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#d3b0bcbda7b2b0a793a4b2aabca6a7fdb7b6a0bab4bd"
+        },
+        {
+          "page": "https://wayout.design/work",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#4f2c20213b2e2c3b0f382e36203a3b612b2a3c262821"
+        },
+        {
+          "page": "https://wayout.design/work/be-social",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#f1929e9f85909285b18690889e8485df95948298969f"
+        },
+        {
+          "page": "https://wayout.design/work/bless-the-youth",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#1c7f7372687d7f685c6b7d657369683278796f757b72"
+        },
+        {
+          "page": "https://wayout.design/work/conspiracy-board-shop",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#57343839233634231720362e382223793332243e3039"
+        },
+        {
+          "page": "https://wayout.design/work/law-offices-of-mary-jordan",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a7c4c8c9d3c6c4d3e7d0c6dec8d2d389c3c2d4cec0c9"
+        },
+        {
+          "page": "https://wayout.design/work/nest-run-club",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#385b57564c595b4c784f5941574d4c165c5d4b515f56"
+        },
+        {
+          "page": "https://wayout.design/work/neurodesign-coach",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#25464a4b514446516552445c4a50510b4140564c424b"
+        },
+        {
+          "page": "https://wayout.design/work/rock-hill-finds",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#b4d7dbdac0d5d7c0f4c3d5cddbc1c09ad0d1c7ddd3da"
+        },
+        {
+          "page": "https://wayout.design/work/tristin-grace-housekeeping",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#a9cac6c7ddc8cadde9dec8d0c6dcdd87cdccdac0cec7"
+        },
+        {
+          "page": "https://wayout.design/work/tuning-fork-solutions",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#cba8a4a5bfaaa8bf8bbcaab2a4bebfe5afaeb8a2aca5"
+        },
+        {
+          "page": "https://wayout.design/work/wilmington-fc",
+          "link": "https://wayout.design/cdn-cgi/l/email-protection#6c0f0302180d0f182c1b0d150319184208091f050b02"
+        }
+      ],
+      "new_pages_missing_alt": [
+        "https://wayout.design/insights/why-chasing-brand-trends-costs-you-more-than-it-gives"
+      ],
+      "fixed_pages_missing_alt": [],
+      "counts": {
+        "pages_crawled": {
+          "now": 41,
+          "was": 40,
+          "delta": 1
+        },
+        "broken_link_count": {
+          "now": 48,
+          "was": 47,
+          "delta": 1
+        },
+        "pages_missing_alt_count": {
+          "now": 41,
+          "was": 40,
+          "delta": 1
+        },
+        "duplicate_meta_description_pages": {
+          "now": 3,
+          "was": 3,
+          "delta": 0
+        },
+        "duplicate_content_pages": {
+          "now": 5,
+          "was": 5,
+          "delta": 0
+        }
+      }
+    }
+  }
+}
