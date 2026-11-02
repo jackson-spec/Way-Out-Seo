@@ -326,13 +326,22 @@
   {
     "id": "cbseacoastnewhomes-com-portfolio-vendor-mention-if-any-overl",
     "item": "cbseacoastnewhomes.com - Portfolio/vendor mention if any overlap with home-service clients",
-    "status": "pending",
+    "status": "brief",
     "notes": "Coastal NC homebuilder. From Opinly backlink gap (one-time).",
     "priority": 2,
     "added": "2026-09-22",
     "source": "growth plan",
     "type": "backlink_target",
-    "domain": "cbseacoastnewhomes.com"
+    "domain": "cbseacoastnewhomes.com",
+    "draft": "drafts/outreach/2026-11-02-cbseacoastnewhomes-com-portfolio-vendor-mention-if-any-overl.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-11-02T21:59:09+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "carewilmington-org-sponsorship-or-in-kind-design-work-for-a-",
