@@ -344,12 +344,21 @@
   {
     "id": "website-design-for-roofers-in-leland-nc",
     "item": "Website design for roofers in Leland NC",
-    "status": "pending",
+    "status": "brief",
     "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
     "priority": 3,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "trade_town"
+    "type": "trade_town",
+    "draft": "drafts/content/2026-11-04-website-design-for-roofers-in-leland-nc.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-11-04T20:07:22+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "website-design-for-roofers-in-hampstead-nc",
