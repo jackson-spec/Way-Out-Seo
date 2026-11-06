@@ -366,13 +366,22 @@
   {
     "id": "wilmingtonparadeofhomes-com-sponsor-or-exhibitor-listing",
     "item": "wilmingtonparadeofhomes.com - Sponsor or exhibitor listing",
-    "status": "pending",
+    "status": "brief",
     "notes": "Local builder event. From Opinly backlink gap (one-time).",
     "priority": 2,
     "added": "2026-09-22",
     "source": "growth plan",
     "type": "backlink_target",
-    "domain": "wilmingtonparadeofhomes.com"
+    "domain": "wilmingtonparadeofhomes.com",
+    "draft": "drafts/outreach/2026-11-06-wilmingtonparadeofhomes-com-sponsor-or-exhibitor-listing.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-11-06T19:44:52+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "landfallrealty-com-vendor-partner-page",
