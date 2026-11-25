@@ -515,12 +515,21 @@
   {
     "id": "website-design-for-hvac-companies-in-southport-nc",
     "item": "Website design for HVAC companies in Southport NC",
-    "status": "pending",
+    "status": "brief",
     "notes": "Trade x town page. Must be genuinely local (service area, local specifics), not a find-and-replace clone, or it becomes duplicate content.",
     "priority": 3,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "trade_town"
+    "type": "trade_town",
+    "draft": "drafts/content/2026-11-25-website-design-for-hvac-companies-in-southport-nc.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-11-25T22:03:01+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "website-design-for-plumbers-in-leland-nc",
