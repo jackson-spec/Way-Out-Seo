@@ -544,12 +544,21 @@
   {
     "id": "pr-pitch-starnews",
     "item": "PR pitch: StarNews",
-    "status": "pending",
+    "status": "brief",
     "notes": "Pitch Jackson as a source for 'how contractors can modernize their web presence'.",
     "priority": 3,
     "added": "2026-09-22",
     "source": "growth plan",
-    "type": "pr"
+    "type": "pr",
+    "draft": "drafts/outreach/2026-11-27-pr-pitch-starnews.md",
+    "history": [
+      {
+        "status": "brief",
+        "ts": "2026-11-27T21:43:08+00:00",
+        "by": "seo-growth",
+        "note": "brief-only"
+      }
+    ]
   },
   {
     "id": "resource-pages-best-web-designers-in-wilmington-nc-resources",
